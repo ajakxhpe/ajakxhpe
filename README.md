@@ -1,5 +1,4 @@
 # Hi, I’m Abolfazl 👋
-# 💫 About Me:
 🔭 I’m currently working on<br>Developing my AI expertise and building practical tools with Python.<br><br>👯 I’m looking to collaborate on<br>AI-driven projects and tools that solve real-world problems.<br><br>🤝 I’m looking for help with<br>Advanced machine learning and research-oriented AI topics.<br><br>🌱 I’m currently learning<br>Deep learning, model optimization, and applied AI systems.<br><br>💬 Ask me about<br>Python, AI fundamentals, Flutter, and Linux.<br><br>⚡ Fun fact<br>I enjoy turning ideas into simple, practical tools that create real value.
 
 
